@@ -1,7 +1,7 @@
 ---
 title: "Test2"
 date: 2020-02-09T15:38:04Z
-draft: true
+draft: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget urna urna. Morbi id massa diam. Aenean id fermentum nibh. Praesent elementum auctor dictum. Aenean ipsum elit, iaculis at metus vel, venenatis interdum neque. Donec volutpat, arcu a aliquet dignissim, tellus est facilisis ligula, at semper justo turpis nec felis. Ut eget est lobortis, ultrices eros non, tristique enim. Vivamus ac odio mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut dolor quis ligula malesuada lobortis ac eu orci. Sed finibus, nisl nec consectetur eleifend, justo arcu dapibus ante, feugiat fermentum eros eros sit amet eros. In aliquam eleifend magna at consequat. Proin cursus nisi vel tincidunt mollis. Aenean in interdum quam. Vestibulum vestibulum dignissim justo vel consequat. Donec congue ut neque ac convallis.
