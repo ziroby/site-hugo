@@ -41,9 +41,7 @@ paginate = 10
 		linkedin = "ronromero"
 
 		copyright = [
-			"&copy; Ron Romero",
-			"Design: [HTML5 UP](//html5up.net)",
-			"Demo Images: [Unsplash](//unsplash.com/)"
+			"&copy; 2020 Ron Romero",
 		]
 
 
@@ -124,7 +122,7 @@ paginate = 10
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = "hello@example.com"
+		email = "ziroby@gmail.com"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native

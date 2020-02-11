@@ -1,5 +1,5 @@
 {
-  "name": "victor-hugo",
+  "name": "ziroby-site-hugo",
   "version": "1.0.0",
   "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
   "repository": "netlify/victor-hugo",
@@ -19,7 +19,7 @@
     "build:hugo:preview": "npm run build:hugo -- -D -F",
     "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js"
   },
-  "author": "",
+  "author": "Ron 'Ziroby' Romero",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.8.4",
