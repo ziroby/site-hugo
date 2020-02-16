@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Ziroby's musings"
 theme = "hugo-strata-theme"
-# disqusShortname = "spf13"
+disqusShortname = "ziroby"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -41,7 +41,7 @@ paginate = 10
 		linkedin = "ronromero"
 
 		copyright = [
-			"&copy; 2020 Ron Romero",
+			"&copy; 2020 Ron Ziroby Romero",
 		]
 
 
@@ -57,41 +57,169 @@ paginate = 10
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
-		[[params.portfolio.gallery]]
-			image = "fulls/01.jpg"
-			thumb = "thumbs/01.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
 
-		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
-			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
 
-		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/cartoon1560545808077.jpg"
+		thumb = "at-the-bear/thumbs/cartoon1560545808077.jpg"
+		title = "Title cartoon1560545808077.jpg"
+		description = "2020-02-13T22:25:26+00:00"
 
-		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/cartoon1562445936834.jpg"
+		thumb = "at-the-bear/thumbs/cartoon1562445936834.jpg"
+		title = "Title cartoon1562445936834.jpg"
+		description = "2020-02-13T22:25:26+00:00"
 
-		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/cartoon1565987322011.jpg"
+		thumb = "at-the-bear/thumbs/cartoon1565987322011.jpg"
+		title = "Title cartoon1565987322011.jpg"
+		description = "2020-02-13T22:25:26+00:00"
 
-		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/cartoon1566641576119.jpg"
+		thumb = "at-the-bear/thumbs/cartoon1566641576119.jpg"
+		title = "Title cartoon1566641576119.jpg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/cartoon1567198102604.jpg"
+		thumb = "at-the-bear/thumbs/cartoon1567198102604.jpg"
+		title = "Title cartoon1567198102604.jpg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/cartoon1567883945167.jpg"
+		thumb = "at-the-bear/thumbs/cartoon1567883945167.jpg"
+		title = "Title cartoon1567883945167.jpg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/cartoon1567890129252.jpg"
+		thumb = "at-the-bear/thumbs/cartoon1567890129252.jpg"
+		title = "Title cartoon1567890129252.jpg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/cartoon1568400390980-01.jpeg"
+		thumb = "at-the-bear/thumbs/cartoon1568400390980-01.jpeg"
+		title = "Title cartoon1568400390980-01.jpeg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/cartoon1568406798003-01.jpeg"
+		thumb = "at-the-bear/thumbs/cartoon1568406798003-01.jpeg"
+		title = "Title cartoon1568406798003-01.jpeg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/cartoon1571431675510-01.jpeg"
+		thumb = "at-the-bear/thumbs/cartoon1571431675510-01.jpeg"
+		title = "Title cartoon1571431675510-01.jpeg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/cartoon1571674470259.jpg"
+		thumb = "at-the-bear/thumbs/cartoon1571674470259.jpg"
+		title = "Title cartoon1571674470259.jpg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/IMG_20191005_204534-01.jpeg"
+		thumb = "at-the-bear/thumbs/IMG_20191005_204534-01.jpeg"
+		title = "Title IMG_20191005_204534-01.jpeg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/IMG_20191018_195016-01.jpeg"
+		thumb = "at-the-bear/thumbs/IMG_20191018_195016-01.jpeg"
+		title = "Title IMG_20191018_195016-01.jpeg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/IMG_20191103_150800.jpg"
+		thumb = "at-the-bear/thumbs/IMG_20191103_150800.jpg"
+		title = "Title IMG_20191103_150800.jpg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/IMG_20191103_152450.jpg"
+		thumb = "at-the-bear/thumbs/IMG_20191103_152450.jpg"
+		title = "Title IMG_20191103_152450.jpg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/IMG_20191103_155649.jpg"
+		thumb = "at-the-bear/thumbs/IMG_20191103_155649.jpg"
+		title = "Title IMG_20191103_155649.jpg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/IMG_20191103_155801.jpg"
+		thumb = "at-the-bear/thumbs/IMG_20191103_155801.jpg"
+		title = "Title IMG_20191103_155801.jpg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/IMG_20191105_215937_427.jpg"
+		thumb = "at-the-bear/thumbs/IMG_20191105_215937_427.jpg"
+		title = "Title IMG_20191105_215937_427.jpg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/IMG_20191105_215937_436.jpg"
+		thumb = "at-the-bear/thumbs/IMG_20191105_215937_436.jpg"
+		title = "Title IMG_20191105_215937_436.jpg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/IMG_20191105_215937_451.jpg"
+		thumb = "at-the-bear/thumbs/IMG_20191105_215937_451.jpg"
+		title = "Title IMG_20191105_215937_451.jpg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/inCollage_20190331_004537852.jpg"
+		thumb = "at-the-bear/thumbs/inCollage_20190331_004537852.jpg"
+		title = "Title inCollage_20190331_004537852.jpg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/inCollage_20190719_220346327.jpg"
+		thumb = "at-the-bear/thumbs/inCollage_20190719_220346327.jpg"
+		title = "Title inCollage_20190719_220346327.jpg"
+		description = "2020-02-13T22:25:26+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/inCollage_20190810_220233379.jpg"
+		thumb = "at-the-bear/thumbs/inCollage_20190810_220233379.jpg"
+		title = "Title inCollage_20190810_220233379.jpg"
+		description = "2020-02-13T22:25:27+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/inCollage_20191004_213939697.jpg"
+		thumb = "at-the-bear/thumbs/inCollage_20191004_213939697.jpg"
+		title = "Title inCollage_20191004_213939697.jpg"
+		description = "2020-02-13T22:25:27+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/inCollage_20191004_230902313.jpg"
+		thumb = "at-the-bear/thumbs/inCollage_20191004_230902313.jpg"
+		title = "Title inCollage_20191004_230902313.jpg"
+		description = "2020-02-13T22:25:27+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/inCollage_20191004_234555540.jpg"
+		thumb = "at-the-bear/thumbs/inCollage_20191004_234555540.jpg"
+		title = "Title inCollage_20191004_234555540.jpg"
+		description = "2020-02-13T22:25:27+00:00"
+
+	[[params.portfolio.gallery]]
+		image = "at-the-bear/inCollage_20191005_175724039.jpg"
+		thumb = "at-the-bear/thumbs/inCollage_20191005_175724039.jpg"
+		title = "Title inCollage_20191005_175724039.jpg"
+		description = "2020-02-13T22:25:27+00:00"
 
 	[params.recentposts]
 		hide  = false
